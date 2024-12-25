@@ -1,20 +1,22 @@
-# FULL_ADDER_SUBTRACTOR
+### NAME:DINESH KARTHIK R
+### REG NO:24900716
+### EXPERIMENT: FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-**AIM:**
+### AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+### EQUIPMENTS REQUIRED:
 
 Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+### FULL ADDER AND FULL SUBTRACTOR:
 
-**Full Adder**
+### FULL ADDER:
 
 Full adder is a digital circuit used to calculate the sum of three binary bits. It consists of three inputs and two outputs. Two of the input variables, denoted by A and B, represent the two significant bits to be added. The third input, Cin, represents the carry from the previous lower significant position. Two outputs are necessary because the arithmetic sum of three binary digits ranges in value from 0 to 3, and binary 2 or 3 needs two digits. The two outputs are sum and carry.
 
@@ -26,7 +28,7 @@ Carry = AB + ACin + BCin
 
 **Figure -1 FULL ADDER**
 
-**Full Subtractor**
+### FULL SUBTRACTOR:
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
@@ -36,22 +38,31 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
+### TRUTH TABLE:
+![Screenshot (32)](https://github.com/user-attachments/assets/45a1254e-ea7a-4c2b-81fb-af79048e84b4)
+![Screenshot (34)](https://github.com/user-attachments/assets/a95e88de-b756-4694-ac91-e7be69306887)
 
-**Procedure**
+### PROCEDURE:
+1.Type the program in Quartus software.
 
-Write the detailed procedure here
+2.Compile and run the program.
 
-**Program:**
+3.Generate the RTL schematic and save the logic diagram.
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+4.Create nodes for inputs and outputs to generate the timing diagram.
 
-**RTL Schematic**
+5.For different input combinations generate the timing diagram
 
-**Output Timing Waveform**
+### PROGRAM:
+![Screenshot 2024-12-12 104500](https://github.com/user-attachments/assets/c33ba59e-dc84-4d69-a08d-85947b61b2c7)
 
-**Result:**
+### RTL:
+![Screenshot (30)](https://github.com/user-attachments/assets/0c25791a-da25-4a94-939e-aa028105d98c)
+
+### TIMING DIAGRAM:
+![Screenshot (37)](https://github.com/user-attachments/assets/2c40513e-a854-4049-a40f-91a631e7a436)
+
+### RESULT:
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
