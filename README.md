@@ -39,8 +39,13 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 ### TRUTH TABLE:
-![Screenshot (32)](https://github.com/user-attachments/assets/45a1254e-ea7a-4c2b-81fb-af79048e84b4)
-![Screenshot (34)](https://github.com/user-attachments/assets/a95e88de-b756-4694-ac91-e7be69306887)
+FULL ADDER
+
+![image](https://github.com/user-attachments/assets/f8afc41a-66e1-4660-a7e1-4b28093ed2d5)
+
+FULL SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/a51d1be3-da7b-41e3-9888-2c8bbf222b32)
 
 ### PROCEDURE:
 1.Type the program in Quartus software.
@@ -57,10 +62,22 @@ Borrow out = A'Bin + A'B + BBin
 ![Screenshot 2024-12-12 104500](https://github.com/user-attachments/assets/c33ba59e-dc84-4d69-a08d-85947b61b2c7)
 
 ### RTL:
-![Screenshot (30)](https://github.com/user-attachments/assets/0c25791a-da25-4a94-939e-aa028105d98c)
+FULL ADDER
+
+![image](https://github.com/user-attachments/assets/4ae4e58f-7710-4b80-9bc5-08f4dc5afe6e)
+
+FULL SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/ff68b900-1e10-4d7a-a9ed-2000f141156c)
 
 ### TIMING DIAGRAM:
-![Screenshot (37)](https://github.com/user-attachments/assets/2c40513e-a854-4049-a40f-91a631e7a436)
+FULL ADDER
+
+![image](https://github.com/user-attachments/assets/b192938b-00f0-4357-bc42-52d0863eac77)
+
+FULL SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/d392363a-6730-421f-a8f9-063246ff7bd2)
 
 ### RESULT:
 
